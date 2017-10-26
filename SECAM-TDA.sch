@@ -30299,7 +30299,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="R5" library="rcl" deviceset="R-EU_" device="0204/7" value="100k"/>
-<part name="R7" library="rcl" deviceset="R-EU_" device="R0805" value="100"/>
+<part name="R7" library="rcl" deviceset="R-EU_" device="0204/7" value="100"/>
 <part name="R8" library="rcl" deviceset="R-EU_" device="R0805" value="22k"/>
 <part name="R10" library="rcl" deviceset="R-EU_" device="R0805" value="1k8"/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R0805" value="2k2"/>
